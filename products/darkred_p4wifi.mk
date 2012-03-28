@@ -4,8 +4,9 @@ $(call inherit-product, device/samsung/p4wifi/p4wifi.mk)
 $(call inherit-product, vendor/aokp/configs/common_tablet.mk)
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/p4-common
+PRODUCT_PACKAGE_OVERLAYS += vendor/theme_darkred/overlay
 
-PRODUCT_NAME := aokp_p4wifi
+PRODUCT_NAME := darkred_p4wifi
 PRODUCT_BRAND := samsung
 PRODUCT_DEVICE := p4wifi
 PRODUCT_MODEL := GT-P7510

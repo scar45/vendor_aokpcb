@@ -5,11 +5,12 @@ $(call inherit-product, device/htc/supersonic/full_supersonic.mk)
 $(call inherit-product, vendor/aokp/configs/common_phone.mk)
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/supersonic
+PRODUCT_PACKAGE_OVERLAYS += vendor/theme_darkred/overlay
 
 #
 # Setup device specific product configuration.
 #
-PRODUCT_NAME := aokp_supersonic
+PRODUCT_NAME := darkred_supersonic
 PRODUCT_BRAND := sprint
 PRODUCT_DEVICE := supersonic
 PRODUCT_MODEL := PC36100

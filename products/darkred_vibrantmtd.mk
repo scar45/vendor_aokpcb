@@ -9,12 +9,13 @@ $(call inherit-product, vendor/aokp/configs/common_phone.mk)
 $(call inherit-product, vendor/aokp/configs/gsm.mk)
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/aries-common
+PRODUCT_PACKAGE_OVERLAYS += vendor/theme_darkred/overlay
 
 # $(call inherit-product, vendor/cm/config/gsm.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := vibrantmtd
-PRODUCT_NAME := aokp_vibrantmtd
+PRODUCT_NAME := darkred_vibrantmtd
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SGH-T959
 

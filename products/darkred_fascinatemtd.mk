@@ -6,12 +6,13 @@ PRODUCT_RELEASE_NAME := Fascinate
 $(call inherit-product, vendor/aokp/configs/common_phone.mk)
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/aries-common
+PRODUCT_PACKAGE_OVERLAYS += vendor/theme_darkred/overlay
 
 # $(call inherit-product, vendor/cm/config/gsm.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := fascinatemtd
-PRODUCT_NAME := aokp_fascinatemtd
+PRODUCT_NAME := darkred_fascinatemtd
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SCH-I500
 

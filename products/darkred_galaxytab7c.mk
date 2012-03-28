@@ -3,8 +3,9 @@ $(call inherit-product, device/samsung/galaxytab7c/full_galaxytab7c.mk)
 $(call inherit-product, vendor/aokp/configs/common_tablet.mk)
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/galaxytab7c
+PRODUCT_PACKAGE_OVERLAYS += vendor/theme_darkred/overlay
 
-PRODUCT_NAME := aokp_galaxytab7c
+PRODUCT_NAME := darkred_galaxytab7c
 PRODUCT_DEVICE := galaxytab7c
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung

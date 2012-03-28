@@ -9,12 +9,13 @@ $(call inherit-product, vendor/aokp/configs/gsm.mk)
 
 # p999 overlay
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/star-common
+PRODUCT_PACKAGE_OVERLAYS += vendor/theme_darkred/overlay
 
 # Build GanOptimizer
 PRODUCT_PACKAGES += GanOptimizer
 
 # Setup device specific product configuration.
-PRODUCT_NAME := aokp_p999
+PRODUCT_NAME := darkred_p999
 PRODUCT_BRAND := lge
 PRODUCT_DEVICE := p999
 PRODUCT_MODEL := LG-P999

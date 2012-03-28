@@ -10,7 +10,7 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/theme_darkred/overlay
 #
 # Setup device specific product configuration.
 #
-PRODUCT_NAME := aokp_tf101
+PRODUCT_NAME := darkred_tf101
 PRODUCT_BRAND := asus
 PRODUCT_DEVICE := tf101
 PRODUCT_MODEL := EPAD

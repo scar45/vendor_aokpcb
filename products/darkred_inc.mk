@@ -4,11 +4,12 @@ $(call inherit-product, device/htc/inc/full_inc.mk)
 # Inherit some common aokp stuff.
 $(call inherit-product, vendor/aokp/configs/common_phone.mk)
 
+PRODUCT_PACKAGE_OVERLAYS += vendor/theme_darkred/overlay
 
 #
 # Setup device specific product configuration.
 #
-PRODUCT_NAME := aokp_inc
+PRODUCT_NAME := darkred_inc
 PRODUCT_BRAND := verizon_wwe
 PRODUCT_DEVICE := inc
 PRODUCT_MODEL := Incredible

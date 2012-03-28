@@ -9,9 +9,10 @@ $(call inherit-product, vendor/aokp/configs/gsm.mk)
 
 # Common overlay
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/crespo
+PRODUCT_PACKAGE_OVERLAYS += vendor/theme_darkred/overlay
 
 # Setup device specific product configuration.
-PRODUCT_NAME := aokp_crespo
+PRODUCT_NAME := darkred_crespo
 PRODUCT_BRAND := google
 PRODUCT_DEVICE := crespo
 PRODUCT_MODEL := Nexus S
