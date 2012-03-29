@@ -139,7 +139,7 @@
     <color name="highlighted_text_holo_dark">#66990000</color>
     <color name="highlighted_text_holo_light">#66990000</color>
     <color name="link_text_holo_dark">#990000</color>
-    <color name="link_text_holo_light">#0000ee</color>
+    <color name="link_text_holo_light">#EE0000</color>
 
     <!-- Group buttons -->
     <eat-comment />

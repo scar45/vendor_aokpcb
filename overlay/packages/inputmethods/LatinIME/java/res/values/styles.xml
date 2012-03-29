@@ -100,8 +100,8 @@
     >
         <item name="suggestionStripOption">autoCorrectBold</item>
         <item name="colorTypedWord">@android:color/white</item>
-        <item name="colorAutoCorrect">#FFFCAE00</item>
-        <item name="colorSuggested">#FFFCAE00</item>
+        <item name="colorAutoCorrect">#FFFC0000</item>
+        <item name="colorSuggested">#FFFC0000</item>
         <item name="alphaObsoleted">50</item>
         <item name="suggestionsCountInStrip">@integer/suggestions_count_in_strip</item>
         <item name="centerSuggestionPercentile">@integer/center_suggestion_percentile</item>

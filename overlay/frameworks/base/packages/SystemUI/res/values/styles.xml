@@ -28,7 +28,7 @@
 
     <style name="TextAppearance.StatusBar.SystemPanel"
         parent="@*android:style/TextAppearance.StatusBar">
-        <item name="android:textAppearance">?android:attr/textAppear767474ance</item>
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
         <item name="android:textStyle">normal</item>
         <item name="android:textColor">#FF808080</item>
     </style>

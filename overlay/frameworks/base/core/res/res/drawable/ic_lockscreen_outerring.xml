@@ -18,6 +18,6 @@
     android:shape="oval"
     >
     <size android:height="@dimen/keyguard_lockscreen_outerring_diameter" android:width="@dimen/keyguard_lockscreen_outerring_diameter" />
-    <solid android:color="#00000000" />
-    <stroke android:color="#1affffff" android:width="2dp" />
+    <solid android:color="#00990000" />
+    <stroke android:color="#1A990000" android:width="2dp" />
 </shape>

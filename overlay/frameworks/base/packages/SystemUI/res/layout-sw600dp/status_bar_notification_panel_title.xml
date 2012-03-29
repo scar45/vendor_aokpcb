@@ -161,14 +161,14 @@
             android:gravity="right"
             android:singleLine="true"
             android:textSize="92sp"
-            android:textColor="#ffffff" />
+            android:textColor="#990000" />
         <TextView android:id="@+id/time_fg"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="right"
             android:singleLine="true"
             android:textSize="92sp"
-            android:textColor="#ffffff" />
+            android:textColor="#990000" />
     </com.android.systemui.statusbar.tablet.HoloClock>
 
     <com.android.systemui.statusbar.policy.DateView
@@ -180,7 +180,7 @@
         android:layout_alignParentLeft="true"
         android:gravity="left"
         android:layout_marginLeft="16dp"
-        android:textColor="#ffffff"
+        android:textColor="#990000"
         />
 
 	<com.android.systemui.statusbar.policy.WeatherText
@@ -192,7 +192,7 @@
 		android:layout_alignParentLeft="true"
 		android:gravity="left"
 		android:layout_marginLeft="16dp"
-		android:textColor="#ffffff"
+		android:textColor="#990000"
 		/>
 
 </com.android.systemui.statusbar.tablet.NotificationPanelTitle>

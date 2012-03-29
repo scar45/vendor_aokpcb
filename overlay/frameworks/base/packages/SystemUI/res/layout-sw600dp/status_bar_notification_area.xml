@@ -105,7 +105,7 @@
             android:singleLine="true"
             android:visibility="gone"
             android:textSize="16sp"
-            android:textColor="#606060"
+            android:textColor="#990000"
             />
 
         <LinearLayout
