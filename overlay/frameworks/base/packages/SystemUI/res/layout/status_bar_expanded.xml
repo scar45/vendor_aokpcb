@@ -61,7 +61,7 @@
                         android:id="@+id/high_temp"
                         android:textSize="10.0sp"
                         android:textStyle="normal"
-                        android:textColor="#ffAF2727"
+                        android:textColor="#ff2789af"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
 
@@ -71,7 +71,7 @@
                         android:paddingLeft="1dp"
                         android:paddingRight="1dp"
                         android:textStyle="normal"
-                        android:textColor="#ff555555"
+                        android:textColor="#ff990000"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
 
@@ -79,7 +79,7 @@
                         android:id="@+id/low_temp"
                         android:textSize="10.0sp"
                         android:textStyle="normal"
-                        android:textColor="#ffAF2727"
+                        android:textColor="#ff990000"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content" />
 
@@ -151,7 +151,7 @@
                         android:id="@+id/condition"
                         android:textSize="14.0sp"
                         android:textStyle="normal"
-                        android:textColor="#ffAF2727"
+                        android:textColor="#ff990000"
                         android:singleLine="true"
                         android:paddingTop="4dp"
                         android:paddingBottom="4dp"
@@ -164,11 +164,11 @@
 
             </com.android.systemui.statusbar.policy.WeatherPanel>
 
-            <com.android.systemui.statusbar.phone.CarrierLabel android:layout_width="0dp" 
+            <!-- <com.android.systemui.statusbar.phone.CarrierLabel android:layout_width="0dp" 
                 android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginTop="1dp" 
                 android:layout_marginLeft="5dp" android:layout_gravity="center_vertical" 
                 android:paddingBottom="1dp" android:paddingLeft="4dp" android:textAppearance="?android:attr/textAppearanceLarge" 
-                android:textColor="#ff990000" />
+                android:textColor="?android:attr/textColorSecondary" /> -->
 
         </LinearLayout>
 
