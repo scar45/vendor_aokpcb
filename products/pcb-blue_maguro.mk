@@ -10,10 +10,10 @@ $(call inherit-product, vendor/aokp/configs/gsm.mk)
 # Tuna overlay
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/tuna
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/maguro
-PRODUCT_PACKAGE_OVERLAYS += vendor/theme_darkred/overlay
+PRODUCT_PACKAGE_OVERLAYS += vendor/pcb-blue_theme/overlay
 
 # Setup device specific product configuration.
-PRODUCT_NAME := darkred_maguro
+PRODUCT_NAME := pcb-blue_maguro
 PRODUCT_BRAND := google
 PRODUCT_DEVICE := maguro
 PRODUCT_MODEL := Galaxy Nexus
