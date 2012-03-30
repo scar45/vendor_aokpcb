@@ -48,7 +48,7 @@
         android:layout_centerVertical="true"
         android:gravity="center"
         android:paddingTop="26dp"
-        android:textColor="#990000"
+        android:textColor="#666666"
         android:textSize="12sp"
         />
 </merge>

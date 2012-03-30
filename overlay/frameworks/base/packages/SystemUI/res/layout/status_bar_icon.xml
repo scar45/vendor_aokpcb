@@ -37,7 +37,7 @@
         android:layout_marginRight="1dp"
         android:layout_marginBottom="1dp"
         android:textSize="10sp"
-        android:textColor="#ff990000"
+        android:textColor="#ffffffff"
         android:background="@drawable/ic_notification_overlay"
         android:gravity="center"
         android:textStyle="bold"
