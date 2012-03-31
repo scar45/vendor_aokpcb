@@ -10,7 +10,7 @@ $(call inherit-product, vendor/aokp/configs/gsm.mk)
 # Tuna overlay
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/tuna
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/maguro
-PRODUCT_PACKAGE_OVERLAYS += vendor/pcb-blue_theme/overlay
+PRODUCT_PACKAGE_OVERLAYS += vendor/pcbblue_theme/overlay
 
 # Setup device specific product configuration.
 PRODUCT_NAME := PCBBlueMaguro

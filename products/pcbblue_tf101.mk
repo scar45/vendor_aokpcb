@@ -5,7 +5,7 @@ $(call inherit-product, device/asus/tf101/full_tf101.mk)
 $(call inherit-product, vendor/aokp/configs/common_tablet.mk)
 $(call inherit-product, vendor/aokp/configs/gsm.mk)
 
-PRODUCT_PACKAGE_OVERLAYS += vendor/pcb-blue_theme/overlay
+PRODUCT_PACKAGE_OVERLAYS += vendor/pcbblue_theme/overlay
 
 #
 # Setup device specific product configuration.
