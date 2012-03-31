@@ -13,7 +13,7 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/maguro
 PRODUCT_PACKAGE_OVERLAYS += vendor/pcbblue_theme/overlay
 
 # Setup device specific product configuration.
-PRODUCT_NAME := PCBBlueMaguro
+PRODUCT_NAME := pcbblue_maguro
 PRODUCT_BRAND := google
 PRODUCT_DEVICE := maguro
 PRODUCT_MODEL := Galaxy Nexus

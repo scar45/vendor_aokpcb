@@ -10,7 +10,7 @@ PRODUCT_PACKAGE_OVERLAYS += vendor/pcbblue_theme/overlay
 #
 # Setup device specific product configuration.
 #
-PRODUCT_NAME := PCBBlueTF101
+PRODUCT_NAME := pcbblue_tf101
 PRODUCT_BRAND := asus
 PRODUCT_DEVICE := tf101
 PRODUCT_MODEL := EPAD
