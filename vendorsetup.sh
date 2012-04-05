@@ -7,9 +7,9 @@ add_lunch_combo darkred_bravo-userdebug
 add_lunch_combo darkred_captivatemtd-userdebug
 add_lunch_combo darkred_fascinatemtd-userdebug
 add_lunch_combo darkred_galaxysmtd-userdebug
-add_lunch_combo darkred_galaxytab7c-userdebug
 add_lunch_combo darkred_inc-userdebug
 add_lunch_combo darkred_otter-userdebug
+add_lunch_combo darkred_p1c-userdebug
 add_lunch_combo darkred_p4-userdebug
 add_lunch_combo darkred_p4vzw-userdebug
 add_lunch_combo darkred_p4wifi-userdebug
