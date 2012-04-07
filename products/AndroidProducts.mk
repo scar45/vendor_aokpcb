@@ -18,7 +18,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/darkred_toro.mk \
     $(LOCAL_DIR)/darkred_vibrantmtd.mk \
     $(LOCAL_DIR)/darkred_vivow.mk \
-    $(LOCAL_DIR)/darkred_galaxytab7c.mk \
+    $(LOCAL_DIR)/darkred_p1c.mk \
     $(LOCAL_DIR)/darkred_wingray.mk \
     $(LOCAL_DIR)/darkred_p999.mk \
     $(LOCAL_DIR)/darkred_p990.mk
