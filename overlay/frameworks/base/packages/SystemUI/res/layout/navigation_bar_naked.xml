@@ -23,13 +23,15 @@
 	xmlns:systemui="http://schemas.android.com/apk/res/com.android.systemui"
 	android:layout_height="match_parent"
 	android:layout_width="match_parent"
-	android:background="#FF000000">
+	>
 
 	<FrameLayout
 		android:id="@+id/rot0"
 		android:layout_height="match_parent"
 		android:layout_width="match_parent"
-		android:visibility="gone">
+		android:visibility="gone"
+		android:background="@drawable/navigation_bar_background"
+		>
 
 		<LinearLayout
 			android:layout_height="match_parent"
@@ -84,7 +86,9 @@
 		android:layout_height="match_parent"
 		android:layout_width="match_parent"
 		android:visibility="gone"
-		android:paddingTop="0dp">
+		android:paddingTop="0dp"
+		android:background="@drawable/navigation_bar_background_land"
+		>
 
 		<LinearLayout
 			android:layout_height="match_parent"
