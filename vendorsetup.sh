@@ -1,5 +1,5 @@
 add_lunch_combo pcbblue_maguro-userdebug
-add_lunch_combo darkred_toro-userdebug
+add_lunch_combo pcbblue_toro-userdebug
 add_lunch_combo darkred_crespo-userdebug
 add_lunch_combo darkred_crespo4g-userdebug
 add_lunch_combo darkred_a500-userdebug

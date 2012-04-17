@@ -15,7 +15,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/darkred_supersonic.mk \
     $(LOCAL_DIR)/darkred_tenderloin.mk \
     $(LOCAL_DIR)/pcbblue_tf101.mk\
-    $(LOCAL_DIR)/darkred_toro.mk \
+    $(LOCAL_DIR)/pcbblue_toro.mk \
     $(LOCAL_DIR)/darkred_vibrantmtd.mk \
     $(LOCAL_DIR)/darkred_vivow.mk \
     $(LOCAL_DIR)/darkred_p1c.mk \
