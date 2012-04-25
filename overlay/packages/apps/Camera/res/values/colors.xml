@@ -22,20 +22,20 @@
     <color name="recording_time_remaining_text">#FFFF0033</color>
     <color name="on_viewfinder_label_background_color">#77333333</color>
     <color name="review_control_pressed_color">#FF33B5E5</color>
-    <color name="review_control_pressed_fan_color">#3FE53333</color>
+    <color name="review_control_pressed_fan_color">#3F33B5E5</color>
     <color name="icon_disabled_color">#DD777777</color>
     <color name="time_lapse_arc">#FFC5C5C5</color>
     <color name="dark_gray">#151515</color>
     <color name="share_popup_background">#DA000000</color>
-    <color name="share_popup_blackout">#ff222222</color>
+    <color name="share_popup_blackout">#ff090909</color>
     <color name="share_icon_background">#80000000</color>
     <color name="indicator_background">#40000000</color>
-    <color name="popup_title_color">#ffE53333</color>
+    <color name="popup_title_color">#ff33b5e5</color>
     <color name="popup_background">#ff282828</color>
     <color name="pano_custom_dialog_background">#FF666666</color>
     <color name="pano_progress_empty">#FF2E2E2E</color>
-    <color name="pano_progress_done">#FFE53333</color>
+    <color name="pano_progress_done">#FF33525E</color>
     <color name="pano_progress_indication">#FF0099CC</color>
     <color name="pano_progress_indication_fast">#FFFF2222</color>
-    <color name="mode_selection_border">#E53333</color>
+    <color name="mode_selection_border">#33B5E5</color>
 </resources>

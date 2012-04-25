@@ -50,9 +50,9 @@
         <item name="keyTextColor">#FFFFFFFF</item>
         <item name="keyTextInactivatedColor">#FFFFFFFF</item>
         <item name="keyHintLetterColor">#80000000</item>
-        <item name="keyHintLabelColor">#E0E5E0E0</item>
-        <item name="keyUppercaseLetterInactivatedColor">#66E5E0E0</item>
-        <item name="keyUppercaseLetterActivatedColor">#CCE5E0E0</item>
+        <item name="keyHintLabelColor">#E0E0E4E5</item>
+        <item name="keyUppercaseLetterInactivatedColor">#66E0E4E5</item>
+        <item name="keyUppercaseLetterActivatedColor">#CCE0E4E5</item>
         <item name="keyLabelHorizontalPadding">@dimen/key_label_horizontal_padding</item>
         <item name="keyHintLetterPadding">@dimen/key_hint_letter_padding</item>
         <item name="keyPopupHintLetterPadding">@dimen/key_popup_hint_letter_padding</item>
@@ -100,8 +100,8 @@
     >
         <item name="suggestionStripOption">autoCorrectBold</item>
         <item name="colorTypedWord">@android:color/white</item>
-        <item name="colorAutoCorrect">#FFFC0000</item>
-        <item name="colorSuggested">#FFFC0000</item>
+        <item name="colorAutoCorrect">#FFFCAE00</item>
+        <item name="colorSuggested">#FFFCAE00</item>
         <item name="alphaObsoleted">50</item>
         <item name="suggestionsCountInStrip">@integer/suggestions_count_in_strip</item>
         <item name="centerSuggestionPercentile">@integer/center_suggestion_percentile</item>
@@ -251,10 +251,10 @@
         <item name="android:background">@drawable/keyboard_background_holo</item>
         <item name="keyBackground">@drawable/btn_keyboard_key_ics</item>
         <item name="keyTextStyle">bold</item>
-        <item name="keyTextInactivatedColor">#66E5E0E0</item>
+        <item name="keyTextInactivatedColor">#66E0E4E5</item>
         <item name="keyHintLetterColor">#80000000</item>
         <item name="keyHintLabelColor">#A0FFFFFF</item>
-        <item name="keyUppercaseLetterInactivatedColor">#66E5E0E0</item>
+        <item name="keyUppercaseLetterInactivatedColor">#66E0E4E5</item>
         <item name="keyUppercaseLetterActivatedColor">#FFFFFFFF</item>
         <item name="keyPreviewBackground">@drawable/keyboard_key_feedback_ics</item>
         <item name="keyPreviewLeftBackground">@drawable/keyboard_key_feedback_left_ics</item>
