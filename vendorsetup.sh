@@ -2,7 +2,6 @@ add_lunch_combo pcbblue_maguro-userdebug
 add_lunch_combo pcbblue_toro-userdebug
 add_lunch_combo pcbblue_crespo-userdebug
 add_lunch_combo pcbblue_crespo4g-userdebug
-add_lunch_combo darkred_a500-userdebug
 add_lunch_combo pcbblue_captivatemtd-userdebug
 add_lunch_combo pcbblue_fascinatemtd-userdebug
 add_lunch_combo pcbblue_galaxysmtd-userdebug
