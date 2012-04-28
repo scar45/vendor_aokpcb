@@ -19,6 +19,7 @@
 <resources>
     <add-resource type="drawable" name="navigation_bar_background"></add-resource> 
     <add-resource type="drawable" name="navigation_bar_background_land"></add-resource>
+    <add-resource type="drawable" name="navigation_bar_sw600dp_background"></add-resource> 
     <item type="drawable" name="notification_number_text_color">#ffffffff</item>
     <item type="drawable" name="notification_item_background_color">#ff000000</item>
     <item type="drawable" name="notification_item_background_color_pressed">#ff257390</item>
@@ -28,6 +29,7 @@
     <drawable name="status_bar_background">@drawable/statusbar_background</drawable>
     <drawable name="navigation_bar_background">@drawable/navigationbar_background</drawable>
     <drawable name="navigation_bar_background_land">@drawable/navigationbar_background_land</drawable>
+    <drawable name="navigation_bar_sw600dp_background">@drawable/navigationbar_sw600dp_background</drawable>
     <item type="drawable" name="status_bar_recents_background_solid">#b3000000</item>
     <item type="drawable" name="status_bar_recents_app_thumbnail_background">#88000000</item>
     <item type="drawable" name="status_bar_notification_row_background_color">#ff222222</item>
