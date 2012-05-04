@@ -1,5 +1,13 @@
 AOKPCB (Blue) Overlay theme intended for AOKP
+ by scar45
 
 http://aokpcb.pla.bz
 
 Please ask before including in your own work, thanks.
+
+Thanks to: 
+
+- KhasMek
+- Hillbillyhacker
+- nagmier
+- remicks
