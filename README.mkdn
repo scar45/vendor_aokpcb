@@ -1,1 +1,5 @@
-PCB Blue Theme intended for AOKP
+AOKPCB (Blue) Overlay theme intended for AOKP
+
+http://aokpcb.pla.bz
+
+Please ask before including in your own work, thanks.
