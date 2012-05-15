@@ -4,9 +4,9 @@ $(call inherit-product, device/samsung/p5wifi/p5wifi.mk)
 $(call inherit-product, vendor/aokp/configs/common_tablet.mk)
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/p5-common
-PRODUCT_PACKAGE_OVERLAYS += vendor/pcbblue_theme/overlay
+PRODUCT_PACKAGE_OVERLAYS += vendor/aokpcb/overlay
 
-PRODUCT_NAME := pcbblue_p5wifi
+PRODUCT_NAME := aokpcb_p5wifi
 PRODUCT_BRAND := samsung
 PRODUCT_DEVICE := p5wifi
 PRODUCT_MODEL := GT-P7310

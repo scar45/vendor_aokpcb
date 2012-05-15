@@ -7,10 +7,10 @@ $(call inherit-product, vendor/aokp/configs/common_phone.mk)
 # Tuna overlay
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/tuna
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/toro
-PRODUCT_PACKAGE_OVERLAYS += vendor/pcbblue_theme/overlay
+PRODUCT_PACKAGE_OVERLAYS += vendor/aokpcb/overlay
 
 # Setup device specific product configuration.
-PRODUCT_NAME := pcbblue_toroplus
+PRODUCT_NAME := aokpcb_toroplus
 PRODUCT_BRAND := Google
 PRODUCT_DEVICE := toroplus
 PRODUCT_MODEL := Sprint Galaxy Nexus CDMA

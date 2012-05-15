@@ -5,11 +5,11 @@ $(call inherit-product, device/htc/bravo/full_bravo.mk)
 $(call inherit-product, vendor/aokp/configs/common_phone.mk)
 
 # Overlays
-PRODUCT_PACKAGE_OVERLAYS += vendor/pcbblue_theme/overlay
+PRODUCT_PACKAGE_OVERLAYS += vendor/aokpcb/overlay
 
 # Setup device specific product configuration.
 #
-PRODUCT_NAME := pcbblue_bravo
+PRODUCT_NAME := aokpcb_bravo
 PRODUCT_BRAND := htc
 PRODUCT_DEVICE := bravo
 PRODUCT_MODEL := Desire

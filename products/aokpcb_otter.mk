@@ -4,10 +4,10 @@ $(call inherit-product, device/amazon/otter/device.mk)
 $(call inherit-product, vendor/aokp/configs/common_tablet.mk)
 $(call inherit-product-if-exists, vendor/amazon/otter/otter-vendor.mk)
 
-PRODUCT_PACKAGE_OVERLAYS += vendor/pcbblue_theme/overlay
+PRODUCT_PACKAGE_OVERLAYS += vendor/aokpcb/overlay
 
 # Set those variables here to overwrite the inherited values.
-PRODUCT_NAME := pcbblue_otter
+PRODUCT_NAME := aokpcb_otter
 PRODUCT_DEVICE := otter
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := Amazon Kindle Fire

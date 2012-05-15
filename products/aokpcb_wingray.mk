@@ -3,10 +3,10 @@ $(call inherit-product, device/moto/wingray/full_wingray.mk)
 $(call inherit-product, vendor/aokp/configs/common_tablet.mk)
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/wingray
-PRODUCT_PACKAGE_OVERLAYS += vendor/pcbblue_theme/overlay
+PRODUCT_PACKAGE_OVERLAYS += vendor/aokpcb/overlay
 
 # Discard inherited values and use our own instead.
-PRODUCT_NAME := pcbblue_wingray
+PRODUCT_NAME := aokpcb_wingray
 PRODUCT_BRAND := motorola
 PRODUCT_DEVICE := wingray
 PRODUCT_MODEL := Xoom

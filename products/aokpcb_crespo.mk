@@ -9,10 +9,10 @@ $(call inherit-product, vendor/aokp/configs/gsm.mk)
 
 # Common overlay
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/crespo
-PRODUCT_PACKAGE_OVERLAYS += vendor/pcbblue_theme/overlay
+PRODUCT_PACKAGE_OVERLAYS += vendor/aokpcb/overlay
 
 # Setup device specific product configuration.
-PRODUCT_NAME := pcbblue_crespo
+PRODUCT_NAME := aokpcb_crespo
 PRODUCT_BRAND := google
 PRODUCT_DEVICE := crespo
 PRODUCT_MODEL := Nexus S

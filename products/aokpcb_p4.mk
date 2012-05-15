@@ -7,9 +7,9 @@ $(call inherit-product, vendor/aokp/configs/common_tablet.mk)
 $(call inherit-product, vendor/aokp/configs/gsm.mk)
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/p4-common
-PRODUCT_PACKAGE_OVERLAYS += vendor/pcbblue_theme/overlay
+PRODUCT_PACKAGE_OVERLAYS += vendor/aokpcb/overlay
 
-PRODUCT_NAME := pcbblue_p4
+PRODUCT_NAME := aokpcb_p4
 PRODUCT_BRAND := samsung
 PRODUCT_DEVICE := p4
 PRODUCT_MODEL := GT-P7500

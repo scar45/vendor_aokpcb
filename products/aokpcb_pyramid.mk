@@ -9,10 +9,10 @@ $(call inherit-product, vendor/aokp/configs/gsm.mk)
 
 # pyramid overlay
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/pyramid
-PRODUCT_PACKAGE_OVERLAYS += vendor/pcbblue_theme/overlay
+PRODUCT_PACKAGE_OVERLAYS += vendor/aokpcb/overlay
 
 # Setup device specific product configuration.
-PRODUCT_NAME := pcbblue_pyramid
+PRODUCT_NAME := aokpcb_pyramid
 PRODUCT_BRAND := HTC
 PRODUCT_DEVICE := pyramid
 PRODUCT_MODEL := Sensation

@@ -4,9 +4,9 @@ $(call inherit-product, device/samsung/p4vzw/p4vzw.mk)
 $(call inherit-product, vendor/aokp/configs/common_tablet.mk)
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/p4-common
-PRODUCT_PACKAGE_OVERLAYS += vendor/pcbblue_theme/overlay
+PRODUCT_PACKAGE_OVERLAYS += vendor/aokpcb/overlay
 
-PRODUCT_NAME := pcbblue_p4vzw
+PRODUCT_NAME := aokpcb_p4vzw
 PRODUCT_BRAND := samsung
 PRODUCT_DEVICE := p4vzw
 PRODUCT_MODEL := SCH-I905

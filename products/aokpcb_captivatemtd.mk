@@ -9,11 +9,11 @@ $(call inherit-product, vendor/aokp/configs/common_phone.mk)
 $(call inherit-product, vendor/aokp/configs/gsm.mk)
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/aries-common
-PRODUCT_PACKAGE_OVERLAYS += vendor/pcbblue_theme/overlay
+PRODUCT_PACKAGE_OVERLAYS += vendor/aokpcb/overlay
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := captivatemtd
-PRODUCT_NAME := pcbblue_captivatemtd
+PRODUCT_NAME := aokpcb_captivatemtd
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SGH-I897
 

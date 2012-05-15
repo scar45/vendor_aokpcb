@@ -1,9 +1,9 @@
-PCB Blue Overlay theme intended for AOKP/AOKPCB
- by scar45
+PCB Blue Overlay Theme intended for AOKP/AOKPCB
+ by scar45 of Team Broccoli
 
-http://aokpcb.pla.bz
+http://aokpcb.broc.co/li
 
-Please ask before including in your own work, thanks.
+Please ask before distributing, thanks.
 
 Thanks to: 
 

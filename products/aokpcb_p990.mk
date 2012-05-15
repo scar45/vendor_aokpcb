@@ -9,10 +9,10 @@ $(call inherit-product, vendor/aokp/configs/gsm.mk)
 
 # p990 overlay
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/star-common
-PRODUCT_PACKAGE_OVERLAYS += vendor/pcbblue_theme/overlay
+PRODUCT_PACKAGE_OVERLAYS += vendor/aokpcb/overlay
 
 # Setup device specific product configuration.
-PRODUCT_NAME := pcbblue_p990
+PRODUCT_NAME := aokpcb_p990
 PRODUCT_BRAND := lge
 PRODUCT_DEVICE := p990
 PRODUCT_MODEL := LG-P990

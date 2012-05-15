@@ -3,9 +3,9 @@ $(call inherit-product, device/samsung/p1c/full_p1c.mk)
 $(call inherit-product, vendor/aokp/configs/common_tablet.mk)
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/p1c
-PRODUCT_PACKAGE_OVERLAYS += vendor/pcbblue_theme/overlay
+PRODUCT_PACKAGE_OVERLAYS += vendor/aokpcb/overlay
 
-PRODUCT_NAME := pcbblue_p1c
+PRODUCT_NAME := aokpcb_p1c
 PRODUCT_DEVICE := p1c
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
