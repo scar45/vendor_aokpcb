@@ -5,6 +5,6 @@
 	android:id="@+id/quick_toggles" android:layout_width="match_parent"
 	android:layout_height="wrap_content" android:visibility="gone"
 	android:orientation="vertical"
-	android:background="@*android:drawable/quick_toggles_background">
+	android:background="@*android:drawable/quick_toggles_bg">
 
 </com.android.systemui.statusbar.policy.toggles.TogglesView>
