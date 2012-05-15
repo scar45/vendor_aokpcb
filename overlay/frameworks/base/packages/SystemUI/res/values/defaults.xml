@@ -20,6 +20,8 @@
     <add-resource type="drawable" name="navigation_bar_background"></add-resource> 
     <add-resource type="drawable" name="navigation_bar_background_land"></add-resource>
     <add-resource type="drawable" name="navigation_bar_sw600dp_background"></add-resource> 
+    <add-resource type="drawable" name="quick_toggles_background"></add-resource> 
+    <add-resource type="drawable" name="notification_pulldown_background"></add-resource> 
     <item type="drawable" name="notification_number_text_color">#ffffffff</item>
     <item type="drawable" name="notification_item_background_color">#ff000000</item>
     <item type="drawable" name="notification_item_background_color_pressed">#ff257390</item>
@@ -37,4 +39,6 @@
     <item type="drawable" name="notification_tracking_bg">#d8000000</item>
     <item type="drawable" name="recents_callout_line">#99ffffff</item>
     <item type="drawable" name="notification_item_background_legacy_color">#ffaaaaaa</item>
+    <item type="drawable" name="quick_toggles_background">@drawable/quick_toggles_bg</item>
+    <item type="drawable" name="notification_pulldown_background">@drawable/notification_pulldown_bg</item>
 </resources>
