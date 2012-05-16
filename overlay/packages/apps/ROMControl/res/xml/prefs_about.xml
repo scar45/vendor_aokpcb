@@ -8,17 +8,17 @@
 		android:title="@string/aokpcb">
 
 		<Preference
-			android:key="aokpcb_website"
+			android:key="aokp_website"
 			android:title="@string/aokpcb_website_title"
 			android:summary="@string/aokpcb_website_summary" />
 
 		<Preference
-			android:key="aokpcb_source"
+			android:key="aokp_source"
 			android:title="@string/aokpcb_source_title"
 			android:summary="@string/aokpcb_source_summary" />
 
 		<Preference
-			android:key="aokpcb_irc"
+			android:key="aokp_irc"
 			android:title="@string/aokpcb_irc_title"
 			android:summary="@string/aokpcb_irc_summary" />
 
