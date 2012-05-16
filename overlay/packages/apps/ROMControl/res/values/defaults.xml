@@ -17,18 +17,18 @@
  */
 -->
 <resources>
-    <add-resource name="donate_scar45"></add-resource> 
-    <add-resource name="donate_remicks"></add-resource> 
-    <add-resource name="aokpcb"></add-resource> 
-    <add-resource name="aokpcb_website_title"></add-resource> 
-    <add-resource name="aokpcb_website_summary"></add-resource> 
-    <add-resource name="aokpcb_source_title"></add-resource> 
-    <add-resource name="aokpcb_source_summary"></add-resource> 
-    <add-resource name="aokpcb_irc_title"></add-resource> 
-    <add-resource name="aokpcb_irc_summary"></add-resource> 
-    <add-resource name="about_aokpcb"></add-resource> 
-    <add-resource name="about_aokpcb_summary"></add-resource> 
-    <add-resource name="about_header"></add-resource> 
+    <add-resource type="string" name="donate_scar45"></add-resource> 
+    <add-resource type="string" name="donate_remicks"></add-resource> 
+    <add-resource type="string" name="aokpcb"></add-resource> 
+    <add-resource type="string" name="aokpcb_website_title"></add-resource> 
+    <add-resource type="string" name="aokpcb_website_summary"></add-resource> 
+    <add-resource type="string" name="aokpcb_source_title"></add-resource> 
+    <add-resource type="string" name="aokpcb_source_summary"></add-resource> 
+    <add-resource type="string" name="aokpcb_irc_title"></add-resource> 
+    <add-resource type="string" name="aokpcb_irc_summary"></add-resource> 
+    <add-resource type="string" name="about_aokpcb"></add-resource> 
+    <add-resource type="string" name="about_aokpcb_summary"></add-resource> 
+    <add-resource type="string" name="about_header"></add-resource> 
 	<string name="donate_scar45">https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=FQCWEBYNNUVHQ&amp;lc=CA&amp;currency_code=CAD&amp;bn=PP%%2dDonationsBF%%3abtn_donate_SM%%2egif%%3aNonHosted</string>
 	<string name="donate_remicks">https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=lost%%2ejunglist%%40gmail%%2ecom&amp;lc=US&amp;item_name=remicks&amp;currency_code=USD&amp;bn=PP%%2dDonationsBF%%3abtn_donateCC_LG%%2egif%%3aNonHosted</string>
 	<string name="aokpcb">Android Open Kang Project (AOKPCB Mod)</string>
