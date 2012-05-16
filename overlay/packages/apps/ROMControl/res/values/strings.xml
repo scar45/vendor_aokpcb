@@ -461,8 +461,8 @@
 	<string name="apply_values">Apply Values</string>
 
 	<string name="dpi">DPI</string>
-	<string name="donate_scar45">https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=FQCWEBYNNUVHQ&amp;lc=CA&amp;currency_code=CAD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted</string>
-	<string name="donate_remicks">https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=lost%2ejunglist%40gmail%2ecom&amp;lc=US&amp;item_name=remicks&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted</string>
+	<string name="donate_scar45">https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=FQCWEBYNNUVHQ&amp;lc=CA&amp;currency_code=CAD&amp;bn=PP%%2dDonationsBF%%3abtn_donate_SM%%2egif%%3aNonHosted</string>
+	<string name="donate_remicks">https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=lost%%2ejunglist%%40gmail%%2ecom&amp;lc=US&amp;item_name=remicks&amp;currency_code=USD&amp;bn=PP%%2dDonationsBF%%3abtn_donateCC_LG%%2egif%%3aNonHosted</string>
 	<string name="donate_roman">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=MZD7JLRX6P99Y</string>
 	<string name="donate_whitehawk">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=8W7F2Y7S7KRM6</string>
 	<string name="donate_zaph">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AW4DJFL3UWKS2</string>
