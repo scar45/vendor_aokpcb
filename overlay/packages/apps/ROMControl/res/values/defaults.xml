@@ -35,8 +35,8 @@
 	<string name="aokpcb_website_title">AOKPCB Website</string>
 	<string name="aokpcb_website_summary">aokpcb.team.broc.co/li - Find all newest releases, nightlies, and news here.</string>
 	<string name="aokpcb_source_title">AOKPCB Source</string>
-	<string name="aokpcb_source_summary">AOKPCB is fully open source. You can always check out the latest source at github.com/aokpcb</string>
-    <string name="aokpcb_irc_title">Join us on IRC</string>
+	<string name="aokpcb_source_summary">AOKPCB is fully open source, forked from AOKP by Team Kang. You can always check out the latest source at github.com/aokpcb</string>
+    <string name="aokpcb_irc_title">Join us to chat live on IRC</string>
     <string name="aokpcb_irc_summary">#AOKPCB @ irc.freenode.net</string>
     <string name="about_aokpcb">About AOKPCB</string>
     <string name="about_aokpcb_summary">@null</string>
