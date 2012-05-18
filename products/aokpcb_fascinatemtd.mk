@@ -8,7 +8,7 @@ $(call inherit-product, vendor/aokp/configs/common_phone.mk)
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/aries-common
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokpcb/overlay
 
-# $(call inherit-product, vendor/cm/config/gsm.mk)
+$(call inherit-product, frameworks/base/build/phone-hdpi-512-dalvik.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := fascinatemtd
