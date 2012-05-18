@@ -1,3 +1,6 @@
+# Inherit improved dalvik vm heap method
+$(call inherit-product, frameworks/base/build/phone-xhdpi-1024-dalvik-heap.mk)
+
 # Inherit AOSP device configuration for maguro.
 $(call inherit-product, device/samsung/maguro/full_maguro.mk)
 
