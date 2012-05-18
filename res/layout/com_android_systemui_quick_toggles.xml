@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.policy.toggles.TogglesView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:systemui="http://schemas.android.com/apk/res/com.android.systemui"
+	android:id="@+id/quick_toggles" android:layout_width="match_parent"
+	android:layout_height="wrap_content" android:visibility="gone"
+	android:orientation="vertical"
+	android:background="@drawable/quick_toggles_background">
+
+</com.android.systemui.statusbar.policy.toggles.TogglesView>
