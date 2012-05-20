@@ -34,7 +34,7 @@
     <drawable name="navigation_bar_sw600dp_background">@drawable/navigationbar_sw600dp_background</drawable>
     <item type="drawable" name="status_bar_recents_background_solid">#b3000000</item>
     <item type="drawable" name="status_bar_recents_app_thumbnail_background">#88000000</item>
-    <item type="drawable" name="status_bar_notification_row_background_color">#ff222222</item>
+    <item type="drawable" name="status_bar_notification_row_background_color">#ff34B4E4</item>
     <drawable name="notification_header_bg">@drawable/notification_header_background</drawable>
     <item type="drawable" name="notification_tracking_bg">#d8000000</item>
     <item type="drawable" name="recents_callout_line">#99ffffff</item>
