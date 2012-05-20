@@ -28,17 +28,17 @@
     <drawable name="notification_item_background">@drawable/notification_item_background</drawable>
     <drawable name="notification_item_background_pressed">@drawable/notification_item_background_pressed</drawable>
     <item type="drawable" name="ticker_background_color">#ff1d1d1d</item>
-    <drawable name="status_bar_background">@drawable/statusbar_background</drawable>
-    <drawable name="navigation_bar_background">@drawable/navigationbar_background</drawable>
-    <drawable name="navigation_bar_background_land">@drawable/navigationbar_background_land</drawable>
-    <drawable name="navigation_bar_sw600dp_background">@drawable/navigationbar_sw600dp_background</drawable>
+    <drawable name="status_bar_background">@drawable/status_bar_background</drawable>
+    <drawable name="navigation_bar_background">@drawable/navigation_bar_background</drawable>
+    <drawable name="navigation_bar_background_land">@drawable/navigation_bar_background_land</drawable>
+    <drawable name="navigation_bar_sw600dp_background">@drawable/navigation_bar_sw600dp_background</drawable>
     <item type="drawable" name="status_bar_recents_background_solid">#b3000000</item>
     <item type="drawable" name="status_bar_recents_app_thumbnail_background">#88000000</item>
     <item type="drawable" name="status_bar_notification_row_background_color">#ff35B3E3</item>
-    <drawable name="notification_header_bg">@drawable/notification_header_background</drawable>
+    <drawable name="notification_header_bg">@drawable/notification_header_bg</drawable>
     <item type="drawable" name="notification_tracking_bg">#d8000000</item>
     <item type="drawable" name="recents_callout_line">#99ffffff</item>
     <item type="drawable" name="notification_item_background_legacy_color">#ffaaaaaa</item>
-    <item type="drawable" name="quick_toggles_background">@drawable/quick_toggles_bg</item>
-    <item type="drawable" name="notification_pulldown_background">@drawable/notification_pulldown_bg</item>
+    <item type="drawable" name="quick_toggles_background">@drawable/quick_toggles_background</item>
+    <item type="drawable" name="notification_pulldown_background">@drawable/notification_pulldown_background</item>
 </resources>

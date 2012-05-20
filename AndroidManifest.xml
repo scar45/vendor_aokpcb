@@ -33,12 +33,7 @@
         pluto:copyright="@string/copyright"
         pluto:wallpaperImage="@drawable/homescreen"
         pluto:styleName="@string/style_appearance_name"
-
-        <!-- Currently this is not being read, but instead the redirections are
-             inferred from the convention res/xml/<package_name>.xml. -->
-        <meta-data android:name="com.tmobile.theme.redirections"
-            android:resource="@xml/redirections" />
-
+	>
     </theme>
 
 </manifest>

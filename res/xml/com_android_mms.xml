@@ -16,25 +16,25 @@
  -->
 
 <resource-redirections>
-<item name=drawable/stat_notify_mms>@drawable/com_android_mms_stat_notify_mms</item>
-<item name=drawable/ic_contact_picture>@drawable/com_android_mms_ic_contact_picture</item>
-<item name=drawable/stat_notify_sms_failed>@drawable/com_android_mms_stat_notify_sms_failed</item>
-<item name=drawable/ic_launcher_smsmms>@drawable/com_android_mms_ic_launcher_smsmms</item>
-<item name=drawable/stat_notify_sms>@drawable/com_android_mms_stat_notify_sms</item>
-<item name=drawable/stat_sys_no_sim>@drawable/com_android_mms_stat_sys_no_sim</item>
-<item name=drawable/ic_launcher_smsmms>@drawable/com_android_mms_ic_launcher_smsmms</item>
-<item name=drawable/ic_launcher_smsmms>@drawable/com_android_mms_ic_launcher_smsmms</item>
-<item name=drawable/stat_notify_mms>@drawable/com_android_mms_stat_notify_mms</item>
-<item name=drawable/ic_contact_picture>@drawable/com_android_mms_ic_contact_picture</item>
-<item name=drawable/stat_notify_sms_failed>@drawable/com_android_mms_stat_notify_sms_failed</item>
-<item name=drawable/ic_launcher_smsmms>@drawable/com_android_mms_ic_launcher_smsmms</item>
-<item name=drawable/stat_notify_sms>@drawable/com_android_mms_stat_notify_sms</item>
-<item name=drawable/stat_sys_no_sim>@drawable/com_android_mms_stat_sys_no_sim</item>
-<item name=drawable/stat_notify_mms>@drawable/com_android_mms_stat_notify_mms</item>
-<item name=drawable/ic_contact_picture>@drawable/com_android_mms_ic_contact_picture</item>
-<item name=drawable/stat_notify_sms_failed>@drawable/com_android_mms_stat_notify_sms_failed</item>
-<item name=drawable/ic_launcher_smsmms>@drawable/com_android_mms_ic_launcher_smsmms</item>
-<item name=drawable/stat_notify_sms>@drawable/com_android_mms_stat_notify_sms</item>
-<item name=drawable/stat_sys_no_sim>@drawable/com_android_mms_stat_sys_no_sim</item>
-<item name=drawable/ic_launcher_smsmms>@drawable/com_android_mms_ic_launcher_smsmms</item>
+<item name="drawable/stat_notify_mms">@drawable/com_android_mms_stat_notify_mms</item>
+<item name="drawable/ic_contact_picture">@drawable/com_android_mms_ic_contact_picture</item>
+<item name="drawable/stat_notify_sms_failed">@drawable/com_android_mms_stat_notify_sms_failed</item>
+<item name="drawable/ic_launcher_smsmms">@drawable/com_android_mms_ic_launcher_smsmms</item>
+<item name="drawable/stat_notify_sms">@drawable/com_android_mms_stat_notify_sms</item>
+<item name="drawable/stat_sys_no_sim">@drawable/com_android_mms_stat_sys_no_sim</item>
+<item name="drawable/ic_launcher_smsmms">@drawable/com_android_mms_ic_launcher_smsmms</item>
+<item name="drawable/ic_launcher_smsmms">@drawable/com_android_mms_ic_launcher_smsmms</item>
+<item name="drawable/stat_notify_mms">@drawable/com_android_mms_stat_notify_mms</item>
+<item name="drawable/ic_contact_picture">@drawable/com_android_mms_ic_contact_picture</item>
+<item name="drawable/stat_notify_sms_failed">@drawable/com_android_mms_stat_notify_sms_failed</item>
+<item name="drawable/ic_launcher_smsmms">@drawable/com_android_mms_ic_launcher_smsmms</item>
+<item name="drawable/stat_notify_sms">@drawable/com_android_mms_stat_notify_sms</item>
+<item name="drawable/stat_sys_no_sim">@drawable/com_android_mms_stat_sys_no_sim</item>
+<item name="drawable/stat_notify_mms">@drawable/com_android_mms_stat_notify_mms</item>
+<item name="drawable/ic_contact_picture">@drawable/com_android_mms_ic_contact_picture</item>
+<item name="drawable/stat_notify_sms_failed">@drawable/com_android_mms_stat_notify_sms_failed</item>
+<item name="drawable/ic_launcher_smsmms">@drawable/com_android_mms_ic_launcher_smsmms</item>
+<item name="drawable/stat_notify_sms">@drawable/com_android_mms_stat_notify_sms</item>
+<item name="drawable/stat_sys_no_sim">@drawable/com_android_mms_stat_sys_no_sim</item>
+<item name="drawable/ic_launcher_smsmms">@drawable/com_android_mms_ic_launcher_smsmms</item>
 </resource-redirections>
