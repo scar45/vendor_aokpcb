@@ -1,3 +1,5 @@
+$(call inherit-product, frameworks/base/build/phone-hdpi-512-dalvik-heap.mk)
+
 $(call inherit-product, device/samsung/fascinatemtd/full_fascinatemtd.mk)
 
 # Release name
@@ -7,8 +9,6 @@ $(call inherit-product, vendor/aokp/configs/common_phone.mk)
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokp/overlay/aries-common
 PRODUCT_PACKAGE_OVERLAYS += vendor/aokpcb/overlay
-
-# $(call inherit-product, vendor/cm/config/gsm.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := fascinatemtd
