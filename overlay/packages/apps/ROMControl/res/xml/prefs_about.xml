@@ -38,6 +38,11 @@
 			aokp:donateLink="@string/donate_remicks" />
 
 		<com.aokp.romcontrol.widgets.DeveloperPreference
+			android:title="cr5315"
+			aokp:twitterHandle="cr5315"
+			aokp:donateLink="@string/donate_cr5315" />
+
+		<com.aokp.romcontrol.widgets.DeveloperPreference
 			android:title="Roman"
 			aokp:twitterHandle="romanbb"
 			aokp:donateLink="@string/donate_roman" />
